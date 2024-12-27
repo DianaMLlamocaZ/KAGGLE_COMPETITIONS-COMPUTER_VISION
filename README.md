@@ -19,7 +19,7 @@ Cada competencia está organizada de la siguiente manera:
      - Fine-tuning del modelo VGG16.
    - **Resultados**: Los submissions se evalúan usando la métrica MeanFScore. ¡Puedes verlo [aquí](https://www.kaggle.com/code/dianallamocaz/plantseedlings-vgg16/notebook)!
      - Overview de resultados: Best Score --> 0.72292
-   - **Notebook**: El notebook utilizados en esta competencia está disponibles en la carpeta `/PlantSeedlingsClassification`. Click [aquí]("./PlantSeedlingsClassification")
+   - **Notebook**: El notebook utilizados en esta competencia está disponibles en la carpeta `/PlantSeedlingsClassification`. Click [aquí](./PlantSeedlingsClassification)
 
 2. **[Nombre de la Competencia 2]**
    - **Descripción**: Breve descripción del reto.
