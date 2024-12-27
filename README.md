@@ -8,16 +8,17 @@ Cada competencia está organizada de la siguiente manera:
 
 
 - **Notebooks**: Contiene los notebooks de Kaggle que incluyen la exploración de datos, preprocesamiento de imágenes, la construcción de modelos, y la evaluación del rendimiento.
-- **Data**: Click [aquí](https://www.kaggle.com/competitions/plant-seedlings-classification/data) para ver la data. 
-- **Modelos**: Modelos entrenados y versiones de los mismos, si es necesario.
+- **Data**: El link correspondiente en Kaggle para ver la data. 
+- **Modelos**: Modelos entrenados.
 
 ## Competencias
 
-1. **[Nombre de la Competencia 1]**
-   - **Descripción**: Breve descripción del reto (por ejemplo, clasificación de imágenes, detección de objetos, segmentación de imágenes, etc.).
-   - **Enlace**: [Enlace a la competencia en Kaggle](URL de la competencia).
-   - **Enfoque**: Descripción del enfoque utilizado para resolver el problema, incluyendo las técnicas de preprocesamiento, selección de modelos y evaluación.
-   - **Resultados**: Breve resumen de los resultados obtenidos y las métricas de rendimiento (como precisión, AUC, F1-score, etc.).
+1. **[Plant Seedlings Classification]**
+   - **Descripción**: Clasificación de imágenes. El conjunto de datos comprende 12 especies de plantas. El objetivo de la competencia es crear un clasificador capaz de determinar la especie de una planta a partir de una foto.
+   - **Enlace**: [Enlace a la competencia en Kaggle](https://www.kaggle.com/competitions/plant-seedlings-classification/overview).
+   - **Enfoque**:
+     - Fine-tuning del modelo VGG16.
+   - **Resultados**: Los submissions se evalúan usando la métrica MeanFScore.
    - **Notebooks**: Los notebooks utilizados en esta competencia están disponibles en la carpeta `/notebooks/competencia1/`.
 
 2. **[Nombre de la Competencia 2]**
