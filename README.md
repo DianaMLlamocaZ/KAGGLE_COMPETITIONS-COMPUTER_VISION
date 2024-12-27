@@ -8,7 +8,7 @@ Cada competencia está organizada de la siguiente manera:
 
 
 - **/notebooks**: Contiene los notebooks de Kaggle que incluyen la exploración de datos, preprocesamiento de imágenes, la construcción de modelos, y la evaluación del rendimiento.
-- **/data**: Carpeta con los conjuntos de datos utilizados (puedes incluir un enlace al dataset si es privado o una referencia para su descarga).
+- **/data**: Click [aquí](https://www.kaggle.com/competitions/plant-seedlings-classification/data) para ver la data. 
 - **/modelos**: Modelos entrenados y versiones de los mismos, si es necesario.
 
 ## Competencias
