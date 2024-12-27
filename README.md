@@ -21,13 +21,6 @@ Cada competencia está organizada de la siguiente manera:
      - Overview de resultados: Best Score --> 0.72292
    - **Notebook**: El notebook utilizados en esta competencia está disponible en la carpeta `/PlantSeedlingsClassification`. Click [aquí](./PlantSeedlingsClassification)
 
-2. **[Nombre de la Competencia 2]**
-   - **Descripción**: Breve descripción del reto.
-   - **Enlace**: [Enlace a la competencia en Kaggle](URL de la competencia).
-   - **Enfoque**: Descripción del enfoque utilizado.
-   - **Resultados**: Resumen de resultados y métricas.
-   - **Notebooks**: Los notebooks utilizados están en `/notebooks/competencia2/`.
-  
 -------
 
 ¡Gracias por visitar mi portafolio! Si tienes alguna pregunta o deseas colaborar en proyectos relacionados con visión por computadora, no dudes en contactarme.
