@@ -7,9 +7,9 @@ Cada carpeta dentro de este directorio corresponde a una competencia específica
 Cada competencia está organizada de la siguiente manera:
 
 
-- **/notebooks**: Contiene los notebooks de Kaggle que incluyen la exploración de datos, preprocesamiento de imágenes, la construcción de modelos, y la evaluación del rendimiento.
-- **/data**: Click [aquí](https://www.kaggle.com/competitions/plant-seedlings-classification/data) para ver la data. 
-- **/modelos**: Modelos entrenados y versiones de los mismos, si es necesario.
+- **Notebooks**: Contiene los notebooks de Kaggle que incluyen la exploración de datos, preprocesamiento de imágenes, la construcción de modelos, y la evaluación del rendimiento.
+- **Data**: Click [aquí](https://www.kaggle.com/competitions/plant-seedlings-classification/data) para ver la data. 
+- **Modelos**: Modelos entrenados y versiones de los mismos, si es necesario.
 
 ## Competencias
 
