@@ -23,4 +23,5 @@ Cada competencia está organizada de la siguiente manera:
 
 -------
 
-¡Gracias por visitar mi portafolio! Si tienes alguna pregunta o deseas colaborar en proyectos relacionados con visión por computadora, no dudes en contactarme.
+¡Gracias por visitar mi portafolio! Si tienes alguna pregunta o deseas colaborar en proyectos relacionados con visión por computadora, no dudes en contactarme:
+- [LinkedIn](https://www.linkedin.com/in/diana-marysabell-llamoca-z%C3%A1rate-44489130a/)
