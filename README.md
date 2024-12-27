@@ -1,4 +1,4 @@
-# KAGGLE_COMPETITIONS-COMPUTER_VISION
+# KAGGLE COMPETITIONS-COMPUTER_VISION
 Este directorio contiene mis participaciones en competiciones de Kaggle, donde he trabajado en problemas complejos de visión por computadora.
 
 Cada carpeta dentro de este directorio corresponde a una competencia específica en la que he participado, con los notebooks, análisis y resultados obtenidos durante la competencia.
