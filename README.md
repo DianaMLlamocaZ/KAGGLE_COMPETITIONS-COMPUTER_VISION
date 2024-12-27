@@ -17,7 +17,7 @@ Cada competencia está organizada de la siguiente manera:
    - **Enlace**: [Plant Seedlings Classification - Kaggle](https://www.kaggle.com/competitions/plant-seedlings-classification/overview).
    - **Enfoque**:
      - Fine-tuning del modelo VGG16.
-   - **Resultados**: Los submissions se evalúan usando la métrica MeanFScore.
+   - **Resultados**: Los submissions se evalúan usando la métrica MeanFScore. ¡Puede verlo [aquí]!(https://www.kaggle.com/code/dianallamocaz/plantseedlings-vgg16/notebook)
    - **Notebooks**: Los notebooks utilizados en esta competencia están disponibles en la carpeta `/notebooks/competencia1/`.
 
 2. **[Nombre de la Competencia 2]**
