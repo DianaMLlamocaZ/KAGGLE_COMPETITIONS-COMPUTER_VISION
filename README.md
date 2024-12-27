@@ -14,7 +14,7 @@ Cada competencia está organizada de la siguiente manera:
 
 1. **[Plant Seedlings Classification]**
    - **Descripción**: Clasificación de imágenes. El conjunto de datos comprende 12 especies de plantas. El objetivo de la competencia es crear un clasificador capaz de determinar la especie de una planta a partir de una foto.
-   - **Enlace**: [Plant Seedlings Classification - Kaggle](https://www.kaggle.com/competitions/plant-seedlings-classification/overview).
+   - **Enlace de la competición**: [Plant Seedlings Classification - Kaggle](https://www.kaggle.com/competitions/plant-seedlings-classification/overview).
    - **Enfoque**:
      - Fine-tuning del modelo VGG16.
    - **Resultados**: Los submissions se evalúan usando la métrica MeanFScore. ¡Puede verlo [aquí](https://www.kaggle.com/code/dianallamocaz/plantseedlings-vgg16/notebook)!
