@@ -9,7 +9,6 @@ Cada competencia está organizada de la siguiente manera:
 
 - **Notebooks**: Contiene los notebooks de Kaggle que incluyen la exploración de datos, preprocesamiento de imágenes, la construcción de modelos, y la evaluación del rendimiento.
 - **Data**: El link correspondiente en Kaggle para ver la data. 
-- **Modelos**: Modelos entrenados.
 
 ## Competencias
 
