@@ -29,7 +29,7 @@ Cada competencia está organizada de la siguiente manera:
      - Fine-tuning del modelo VGG16.
    - **Resultados**: Los submissions se evalúan usando la métrica Accuracy. ¡Puedes verlo [aquí](https://www.kaggle.com/code/dianallamocaz/leafdetection-classification)!
      - Overview de resultados: Best Score --> 0.78891
-   - **Notebook**: El notebook utilizados en esta competencia está disponible en la carpeta `/HealthyVSDiseasedPlantLeaves`. Click [aquí](./PlantSeedlingsClassification)
+   - **Notebook**: El notebook utilizados en esta competencia está disponible en la carpeta `/HealthyVSDiseasedPlantLeaves`. Click [aquí](./HealthyVSDiseasedPlantLeaves)
 
 -------
 
