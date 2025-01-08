@@ -21,6 +21,16 @@ Cada competencia está organizada de la siguiente manera:
      - Overview de resultados: Best Score --> 0.72292
    - **Notebook**: El notebook utilizados en esta competencia está disponible en la carpeta `/PlantSeedlingsClassification`. Click [aquí](./PlantSeedlingsClassification)
 
+2. **[Healthy vs Diseased Plant Leaves: Classification]**
+   - **Descripción**: Clasificación de imágenes. La detección de enfermedades de las plantas mediante visión artificial podría ser muy importante para proteger la industria agrícola. Este conjunto de datos contiene 4235 imágenes de hojas sanas y/o enfermas. Dentro de este conjunto de datos, hay 10 especies de plantas diferentes con una variedad de formas de hojas y grados de progresión de la enfermedad
+   - **Enlace de la competición**: [Healthy vs Diseased Plant Leaves - Kaggle](https://www.kaggle.com/competitions/computer-vision-xm/overview).
+   - **Enfoque**:
+     - Molode desde cero
+     - Fine-tuning del modelo VGG16.
+   - **Resultados**: Los submissions se evalúan usando la métrica Accuracy. ¡Puedes verlo [aquí](https://www.kaggle.com/code/dianallamocaz/leafdetection-classification)!
+     - Overview de resultados: Best Score --> 0.78891
+   - **Notebook**: El notebook utilizados en esta competencia está disponible en la carpeta `/HealthyVSDiseasedPlantLeaves`. Click [aquí](./PlantSeedlingsClassification)
+
 -------
 
 ¡Gracias por visitar mi portafolio! Si tienes alguna pregunta o deseas colaborar en proyectos relacionados con visión por computadora, no dudes en contactarme:
